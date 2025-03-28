@@ -179,5 +179,3 @@ Include screenshot of the dataset.
 ### RESULT
 Thus, a neural network classification model was successfully developed and trained using PyTorch.
 
-## RESULT
-Include your result here
